@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Quantity,Price,Total_Amount,Date
+1001,Laptop,Electronics,2,700,,2024-02-01
+1002,Mobile Phone,Electronics,1,500,,2024-02-02
+1003,Headphones,Accessories,3,50,,2024-02-03
+1004,Mouse,Accessories,2,20,,2024-02-04
+1005,Keyboard,Accessories,1,30,,2024-02-05
+1006,T-shirt,Clothing,4,15,,2024-02-06
+1007,Jacket,Clothing,1,60,,2024-02-07
+1008,Refrigerator,Electronics,1,900,,2024-02-08
+1009,TV,Electronics,2,1100,,2024-02-09
+1010,Shoes,Clothing,2,40,,2024-02-10
