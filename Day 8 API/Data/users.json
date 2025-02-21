@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "address": "UK"
+    },
+    {
+      "id": "2",
+      "name": "Bobby",
+      "email": "bobby@gmail.com",
+      "address": "US"
+    },
+    {
+      "id": "3",
+      "name": "Monica",
+      "email": "monica@gmail.com",
+      "address": "US"
+    },
+    {
+      "id": "4",
+      "name": "Rachel",
+      "email": "rachel@gmail.com",
+      "address": "Paris"
+    },
+    {
+      "id": "1740053510892",
+      "name": "Chandler",
+      "email": "chandler@gmail.com",
+      "address": "New York"
+    },
+    {
+      "id": "1740054252742",
+      "name": "Joey",
+      "email": "joey@friends.com",
+      "address": "Italy"
+    },
+    {
+      "id": "1740054314291",
+      "name": "Phoebe",
+      "email": "phoebe@gmail.com",
+      "address": "France"
+    },
+    {
+      "id": "1740054341038",
+      "name": "Ross",
+      "email": "dinosaur@gmail.com",
+      "address": "Museum"
+    }
+  ]
+}
