@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx # Name of Pod
+  labels: 
+    app: nginx # use this label to expose service
+spec:
+  containers:
+  - name: my-container
+    image: nginx:1.14.2
+    ports:
+    - containerPort: 80
